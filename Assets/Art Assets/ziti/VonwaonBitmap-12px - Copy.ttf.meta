@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4bf7b4e873ee8b545ade402e404139e5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 12
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - VonwaonBitmap 12px
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ad37d308ab1edd84087dc796de41c570, type: 3}
+  customCharacters: 
+  fontRenderingMode: 2
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
